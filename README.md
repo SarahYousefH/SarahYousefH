@@ -45,6 +45,9 @@
     <li><a href="link-to-your-dsa-project">Project Title 2</a> - Brief description of the project.</li>
 </ul>
 
+<p align="center"> <a href="https://github.com/SarahYousefH/Multi-threaded-System-for-Matrix-Multiplication"> <img src="https://img.shields.io/badge/-Multi--threaded%20System%20for%20Matrix%20Multiplication-blue?style=for-the-badge" /> </a> <a href="https://github.com/link-to-your-dsa-project"> <img src="https://img.shields.io/badge/-Project%20Title%202-blue?style=for-the-badge" /> </a> </p>
+
+
 <h4>🔧 Category 2: Hardware Projects</h4>
 <ul>
     <li><a href="https://github.com/SarahYousefH/Multi-cycle-Implementation-of-a-CPU-Microcontroller">Multi-cycle Implementation of a CPU Microcontroller</a></li>
