@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sy Hassouneh</h1>
-<h3 align="center">I'm a passionate 4th-year Computer Engineering student at Birzeit University. With hands-on experience as a Design Verification Engineer, I’ve developed a SystemVerilog testbench and tackled critical bugs, enhancing my technical skills in hardware design and problem-solving. I’m excited to explore innovative projects in AI and software development!</h3>
+<h1 align="center">Hi 👋, I'm Sarah Hassouneh</h1>
+<h3 align="center">I'm a passionate 4th-year Computer Engineering student at Birzeit University. I’m excited to explore innovative projects in AI, hardware and software development!</h3>
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
@@ -11,10 +11,8 @@
   <li>C</li>
   <li>Java</li>
   <li>Python</li>
-  <li>TensorFlow</li>
   <li>Verilog</li>
   <li>SystemVerilog</li>
-  <li>Pandas</li>
 </ul>
 
 <h3 align="left">📂 My Projects:</h3>
