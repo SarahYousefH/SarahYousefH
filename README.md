@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Sarah</h1>
-<h3 align="center">I'm a passionate 4th-year Computer Engineering student at Birzeit University, eager to explore innovative projects in AI, hardware, and software development!</h3>
+<h3 align="center">I'm a passionate 4th-year Computer Engineering student at Birzeit University, eager to explore innovative projects in AI, Hardware, and Software development!</h3>
 
 ---
 
