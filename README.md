@@ -12,46 +12,27 @@
   </a>
 </p>
 
-
 ---
+<h3 align="left">🛠️ Technologies & Tools:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Verilog-007ACC?style=for-the-badge" alt="Verilog" />
+  <img src="https://img.shields.io/badge/SystemVerilog-007ACC?style=for-the-badge" alt="SystemVerilog" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
 
-🛠️ Technologies & Tools:
-Java Python Verilog SystemVerilog C
-
-🧠 Currently Exploring:
-Pandas
-TensorFlow
-SQL
-HTML & CSS
-Feel free to share resources or collaborate on related projects!
-
-🚀 Featured Projects:
-
-
-
-<h3 align="left">🛠️ Technologies I'm Proficient In:</h3>
-<ul>
-  <li>Java</li>
-  <li>Python</li>
-  <li>Verilog</li>
-  <li>SystemVerilog</li>
-  <li>C</li>
-</ul>
-
----
-
-<h3 align="left">🧠 Currently Learning more about :</h3>
+<h3 align="left">🧠 Currently Exploring:</h3>
 <ul>
   <li>Pandas</li>
   <li>TensorFlow</li>
   <li>SQL</li>
-  <li>HTML</li>
-  <li>CSS</li>
+  <li>HTML & CSS</li>
 </ul>
-
----
-
-<h3 align="left">📂 Featured Projects:</h3>
+<p>Feel free to share resources or collaborate on related projects!</p>
+ 
+ ---
+h3 align="left">🚀 Featured Projects:</h3>
 
 <h4>🔧 Category 1: Data Structures & Algorithms</h4>
 <ul>
