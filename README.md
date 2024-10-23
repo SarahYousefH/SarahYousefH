@@ -32,7 +32,7 @@
 <p>Feel free to share resources or collaborate on related projects!</p>
  
  ---
-h3 align="left">🚀 Featured Projects:</h3>
+<h3 align="left">🚀 Featured Projects:</h3>
 
 <h4>🔧 Category 1: Data Structures & Algorithms</h4>
 <ul>
