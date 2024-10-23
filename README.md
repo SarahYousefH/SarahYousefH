@@ -49,7 +49,9 @@
 <h3 align="left">🔍 Discover with Me:</h3>
 <p>Check out my projects to see how I tackle real-world challenges using technology. I'm always eager to learn and collaborate, so feel free to reach out if you're interested in discussing ideas or potential projects!</p>
 
-<p style="font-size: larger; font-weight: bold;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" /> Let's connect on LinkedIn: <a href="https://linkedin.com/in/sarah-hassouneh-508301290">Sarah Hassouneh</a>
+<p>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" style="vertical-align: middle;" />
+  <span style="font-size: larger; font-weight: bold;">Let's connect on LinkedIn: <a href="https://linkedin.com/in/sarah-hassouneh-508301290">Sarah Hassouneh</a></span>
 </p>
+
 
