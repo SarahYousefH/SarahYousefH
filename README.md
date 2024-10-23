@@ -51,6 +51,13 @@
     <li><a href="link-to-your-ai-project">Project Title 2</a> - Brief description of the project.</li>
 </ul>
 
+<details>
+  <summary>Click to expand!</summary>
+  
+  - Item 1
+  - Item 2
+  - Item 3
+</details>
 ---
 
 <h3 align="left">🔍 Discover with Me:</h3>
