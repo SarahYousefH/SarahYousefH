@@ -4,7 +4,7 @@
 > "Every journey begins with a single step; don’t wait for the stars to align before you tread the path of growth."
 
 ---
-<h3 align="left">🛠️ Technologies & Tools:</h3>
+<h3 align="left">🛠️ Technologies I'm Proficient in:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
