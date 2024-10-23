@@ -1,6 +1,8 @@
 <h1 align="center">👋 Hi, I'm Sarah</h1>
 <h3 align="center">I'm a passionate 4th-year Computer Engineering student at Birzeit University, eager to explore innovative projects in AI, Hardware, and Software development!</h3>
 
+<h1 align="center"><img src="quote.jpg" alt="Profile Image" style="border-radius:50%; width:200px;"/>👋 Hi, I'm Sarah</h1>
+
 ---
 
 <h3 align="left">🌐 Connect with Me On LinkedIn:</h3>
@@ -10,7 +12,6 @@
   </a>
 </p>
 
-> "The only way to do great work is to love what you do." – Steve Jobs
 
 ---
 
