@@ -51,7 +51,7 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" style="vertical-align: middle;" />
-  <span style="font-size: larger; font-weight: bold;">Let's connect on LinkedIn: <a href="https://linkedin.com/in/sarah-hassouneh-508301290">Sarah Hassouneh</a></span>
+  <strong>Let's connect on LinkedIn: <a href="https://linkedin.com/in/sarah-hassouneh-508301290">Sarah Hassouneh</a></strong>
 </p>
 
 
