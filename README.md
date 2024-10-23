@@ -28,7 +28,7 @@
 <h4>💡 Data Structures & Algorithms</h4>
 <ul>
     <li><a href="https://github.com/SarahYousefH/Multi-cycle-Implementation-of-a-CPU-Microcontroller">Multi-cycle Implementation of a CPU Microcontroller</a></li>
-    <li><a href="https://github.com/SarahYousefH/Simple-Microprocessor-Design">Simple Microprocessor Design 2</a> - Brief description of the project.</li>
+    <li><a href="https://github.com/SarahYousefH/Simple-Microprocessor-Design">Simple Microprocessor Design </a> </li>
 </ul>
 
 <h4>⚙️ Hardware Projects</h4>
