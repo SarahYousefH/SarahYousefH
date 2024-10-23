@@ -27,6 +27,7 @@
 <ul>
   <li>Pandas</li>
   <li>TensorFlow</li>
+  <li>SQL</li>
   <li>HTML</li>
   <li>CSS</li>
 </ul>
