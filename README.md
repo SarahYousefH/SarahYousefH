@@ -25,13 +25,13 @@
  ---
 <h3 align="left">🚀 Featured Projects:</h3>
 
-<h4>💡 Category 1: Data Structures & Algorithms</h4>
+<h4>💡 Data Structures & Algorithms</h4>
 <ul>
     <li><a href="https://github.com/SarahYousefH/Multi-cycle-Implementation-of-a-CPU-Microcontroller">Multi-cycle Implementation of a CPU Microcontroller</a></li>
     <li><a href="link-to-your-dsa-project">Project Title 2</a> - Brief description of the project.</li>
 </ul>
 
-<h4>⚙️ Category 2: Hardware Projects</h4>
+<h4>⚙️ Hardware Projects</h4>
 <ul>
     <li><a href="https://github.com/SarahYousefH/Multi-cycle-Implementation-of-a-CPU-Microcontroller">Multi-cycle Implementation of a CPU Microcontroller</a></li>
     <li><a href="link-to-your-hardware-project">Project Title 1</a> - Brief description of the project.</li>
@@ -39,6 +39,13 @@
 </ul>
 
 <h4>🧠 Category 3: AI Projects</h4>
+<ul>
+    <li><a href="link-to-your-ai-project">Project Title 1</a> - Brief description of the project.</li>
+    <li><a href="link-to-your-ai-project">Project Title 2</a> - Brief description of the project.</li>
+</ul>
+
+
+<h4>🤖 Systems And Automation</h4>
 <ul>
     <li><a href="link-to-your-ai-project">Project Title 1</a> - Brief description of the project.</li>
     <li><a href="link-to-your-ai-project">Project Title 2</a> - Brief description of the project.</li>
