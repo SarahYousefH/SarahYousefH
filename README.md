@@ -15,6 +15,20 @@
 
 ---
 
+🛠️ Technologies & Tools:
+Java Python Verilog SystemVerilog C
+
+🧠 Currently Exploring:
+Pandas
+TensorFlow
+SQL
+HTML & CSS
+Feel free to share resources or collaborate on related projects!
+
+🚀 Featured Projects:
+
+
+
 <h3 align="left">🛠️ Technologies I'm Proficient In:</h3>
 <ul>
   <li>Java</li>
