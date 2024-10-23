@@ -26,7 +26,7 @@
 
 ---
 
-<h3 align="left">🧠 Currently Working On:</h3>
+<h3 align="left">🧠 Currently Learning more about :</h3>
 <ul>
   <li>Pandas</li>
   <li>TensorFlow</li>
