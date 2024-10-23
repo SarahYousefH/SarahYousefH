@@ -10,6 +10,8 @@
   </a>
 </p>
 
+> "The only way to do great work is to love what you do." – Steve Jobs
+
 ---
 
 <h3 align="left">🛠️ Technologies I'm Proficient In:</h3>
