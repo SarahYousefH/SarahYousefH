@@ -4,15 +4,6 @@
 > "Every journey begins with a single step; don’t wait for the stars to align before you tread the path of growth."
 
 ---
-
-<h3 align="left">🌐 Connect with Me On LinkedIn:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/sarah-hassouneh-508301290" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
-
----
 <h3 align="left">🛠️ Technologies & Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
@@ -57,3 +48,10 @@
 
 <h3 align="left">🔍 Discover with Me:</h3>
 <p>Check out my projects to see how I tackle real-world challenges using technology. I'm always eager to learn and collaborate, so feel free to reach out if you're interested in discussing ideas or potential projects!</p>
+
+<h3 align="left">🌐  Let's Connect On LinkedIn:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/sarah-hassouneh-508301290" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
