@@ -27,7 +27,7 @@
 
 <h4>💡 Data Structures & Algorithms</h4>
 <ul>
-    <li><a href="https://github.com/SarahYousefH/Huffman-Compression-Program">Project Title 1</a> Huffman Compression Program</li>
+    <li><a href="https://github.com/SarahYousefH/Huffman-Compression-Program">Huffman Compression Program</li>
     <li><a href="https://github.com/SarahYousefH/Dijkstra-s-Algorithm">Dijkstra's Algorithim 2</a> - Brief description of the project.</li>
 </ul>
 
