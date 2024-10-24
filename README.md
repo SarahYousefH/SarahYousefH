@@ -47,7 +47,7 @@
 <h4>🤖 Systems And Automation</h4>
 <ul>
     <li><a href="https://github.com/SarahYousefH/Multi-threaded-System-for-Matrix-Multiplication">Multi Threaded System for Matrix Multiplication</li>
-    <li><a href="link-to-your-ai-project">Automated File Management System with Python Scripting </li>
+    <li><a  https://github.com/SarahYousefH/Automated-File-Management-System-with-Python-Scripting ">Automated File Management System with Python Scripting </li>
 </ul>
 
 
