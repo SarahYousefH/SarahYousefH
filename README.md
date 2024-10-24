@@ -28,7 +28,7 @@
 <h4>💡 Data Structures & Algorithms</h4>
 <ul>
     <li><a href="https://github.com/SarahYousefH/Huffman-Compression-Program">Huffman Compression Program</li>
-    <li><a href="https://github.com/SarahYousefH/Dijkstra-s-Algorithm">Dijkstra's Algorithim 2</li>
+    <li><a href="https://github.com/SarahYousefH/Dijkstra-s-Algorithm">Dijkstra's Algorithim</li>
 </ul>
 
 <h4>⚙️ Hardware Projects</h4>
@@ -47,7 +47,8 @@
 <h4>🤖 Systems And Automation</h4>
 <ul>
     <li><a href="https://github.com/SarahYousefH/Multi-threaded-System-for-Matrix-Multiplication">Multi Threaded System for Matrix Multiplication</li>
-    <li><a  https://github.com/SarahYousefH/Automated-File-Management-System-with-Python-Scripting ">Automated File Management System with Python Scripting </li>
+       <li><a href="https://github.com/SarahYousefH/Automated-File-Management-System-with-Python-Scripting
+">Automated File Management System with Python Scripting</li>
 </ul>
 
 
