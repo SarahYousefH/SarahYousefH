@@ -28,7 +28,7 @@
 <h4>💡 Data Structures & Algorithms</h4>
 <ul>
     <li><a href="https://github.com/SarahYousefH/Huffman-Compression-Program">Huffman Compression Program</li>
-    <li><a href="https://github.com/SarahYousefH/Dijkstra-s-Algorithm">Dijkstra's Algorithim 2</a> - Brief description of the project.</li>
+    <li><a href="https://github.com/SarahYousefH/Dijkstra-s-Algorithm">Dijkstra's Algorithim 2</li>
 </ul>
 
 <h4>⚙️ Hardware Projects</h4>
@@ -39,15 +39,15 @@
 
 <h4>🧠 Category 3: AI Projects</h4>
 <ul>
-    <li><a href="https://github.com/SarahYousefH/AI-Job-Scheduling-Program">Project Title 1</a> AI Job Scheduling Program</li>
-    <li><a href="https://github.com/SarahYousefH/AI-Tic-Tac-Toe">Project Title 2</a> AI Tic-Tac-Toe</li>
+    <li><a href="https://github.com/SarahYousefH/AI-Job-Scheduling-Program">AI Job Scheduling Program</li>
+    <li><a href="https://github.com/SarahYousefH/AI-Tic-Tac-Toe"> AI Tic-Tac-Toe</li>
 </ul>
 
 
 <h4>🤖 Systems And Automation</h4>
 <ul>
-    <li><a href="https://github.com/SarahYousefH/Multi-threaded-System-for-Matrix-Multiplication">Multi Threaded System for Matrix Multiplication</a> - Brief description of the project.</li>
-    <li><a href="link-to-your-ai-project">Project Title 2</a> - Brief description of the project.</li>
+    <li><a href="https://github.com/SarahYousefH/Multi-threaded-System-for-Matrix-Multiplication">Multi Threaded System for Matrix Multiplication</li>
+    <li><a href="link-to-your-ai-project">Automated File Management System with Python Scripting </li>
 </ul>
 
 
