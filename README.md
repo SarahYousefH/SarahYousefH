@@ -37,7 +37,7 @@
     <li><a href="https://github.com/SarahYousefH/Simple-Microprocessor-Design">Simple Microprocessor Design </a> </li>
 </ul>
 
-<h4>🧠 Category 3: AI Projects</h4>
+<h4>🧠 AI Projects</h4>
 <ul>
     <li><a href="https://github.com/SarahYousefH/AI-Job-Scheduling-Program">AI Job Scheduling Program</li>
     <li><a href="https://github.com/SarahYousefH/AI-Tic-Tac-Toe"> AI Tic-Tac-Toe</li>
